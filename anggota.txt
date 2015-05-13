@@ -5,5 +5,9 @@ Daftar Anggota
 1. Dian Melisa
 >>>>>>> Update anggota.txt
 =======
+<<<<<<< HEAD
 2. Lina Marlina
+=======
+3. mukti dirtama
+>>>>>>> Update anggota.txt
 >>>>>>> Update anggota.txt
