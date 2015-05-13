@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Daftar Anggota
+=======
+1. Dian Melisa
+>>>>>>> Update anggota.txt
